@@ -1,0 +1,11 @@
+c:\users\nick\documents\visual studio 2017\Projects\blackjack\blackjack\bin\Debug\netcoreapp1.1\blackjack.deps.json
+c:\users\nick\documents\visual studio 2017\Projects\blackjack\blackjack\bin\Debug\netcoreapp1.1\blackjack.runtimeconfig.json
+c:\users\nick\documents\visual studio 2017\Projects\blackjack\blackjack\bin\Debug\netcoreapp1.1\blackjack.runtimeconfig.dev.json
+c:\users\nick\documents\visual studio 2017\Projects\blackjack\blackjack\obj\Debug\netcoreapp1.1\blackjack.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2017\Projects\blackjack\blackjack\obj\Debug\netcoreapp1.1\blackjack.AssemblyInfo.cs
+c:\users\nick\documents\visual studio 2017\Projects\blackjack\blackjack\bin\Debug\netcoreapp1.1\blackjack.dll
+c:\users\nick\documents\visual studio 2017\Projects\blackjack\blackjack\bin\Debug\netcoreapp1.1\blackjack.pdb
+c:\users\nick\documents\visual studio 2017\Projects\blackjack\blackjack\obj\Debug\netcoreapp1.1\blackjack.dll
+c:\users\nick\documents\visual studio 2017\Projects\blackjack\blackjack\obj\Debug\netcoreapp1.1\blackjack.pdb
+C:\Users\nick\Documents\Visual Studio 2017\Projects\blackjack\blackjack\obj\Debug\netcoreapp1.1\blackjack.csproj.CoreCompileInputs.cache
+C:\Users\nick\Documents\Visual Studio 2017\Projects\blackjack\blackjack\obj\Debug\netcoreapp1.1\blackjack.AssemblyInfoInputs.cache
